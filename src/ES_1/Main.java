@@ -10,7 +10,7 @@ public class Main {
         String name = "ciao";
         System.out.println("la lunghezza della stringa " + name + " è pari? " + stringaPariDispari("ciao"));
 //LOG esercizio 1 richiesta 2
-        int annoFornito = 2024;
+        int annoFornito = 2015;
         System.out.println("l'anno " + annoFornito + " è bisestile? " + annoBisestile(annoFornito));
 //LOG esercizio 1 richiesta 3
     }
